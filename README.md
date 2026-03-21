@@ -1,5 +1,6 @@
 # Lithium-Finder
-A GEE Javascript code to find Lithium.
+A GEE Python code to find Lithium.
+NOTE: FOR THE MOST RECENT AND UPDATED LITHIUM-FINDER CODE, FOLLOW THE PYTHON FILE.
 
 How Multi_Sensor_Analysis works:
 
